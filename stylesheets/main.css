@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "SubwayTicker";
+  src: url(/fonts/subway_ticker-webfont.eot);
+  src: url(/fonts/subway_ticker-webfont.eot?#iefix) format('eot'),
+       url(/fonts/subway_ticker-webfont.ttf) format('truetype'),
+       url(/fonts/subway_ticker-webfont.woff) format('woff'),
+       url(/fonts/subway_ticker-webfont.svg) format('svg');
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "SubwayTicker";
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 15em;
+}
+
+a {
+  color: #666;
+}
+
+a:hover {
+  color: #000;
+}
