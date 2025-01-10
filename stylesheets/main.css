@@ -7,19 +7,10 @@
        url(/fonts/subway_ticker-webfont.svg) format('svg');
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   font-family: "SubwayTicker";
   font-weight: normal;
-}
-
-h1 {
-  font-size: 15em;
-}
-
-a {
-  color: #666;
-}
-
-a:hover {
-  color: #000;
+  font-size: 120px;
+  line-height: 10px;
+  padding: 0 25px;
 }
