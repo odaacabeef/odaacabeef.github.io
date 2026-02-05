@@ -14,3 +14,32 @@ h1 {
   line-height: 10px;
   padding: 0 25px;
 }
+
+a {
+  color: #FF1493;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #39FF14;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.odb {
+  flex-shrink: 0;
+}
+
+.components {
+  font-family: monospace;
+  font-size: 10px;
+  line-height: 1.4;
+  white-space: pre;
+  margin: 0;
+  padding: 25px;
+  border: 1px dashed #000;
+}
