@@ -43,10 +43,27 @@ a:hover {
   padding: 25px;
 }
 
+.midi {
+  color: #D4F1F4;
+}
+
+.audio {
+  color: #E6E6FA;
+}
+
+.audio-label {
+  color: #D8BFD8;
+}
+
+.description-text {
+  color: #999;
+}
+
 .description {
   margin: 20px;
   padding: 20px;
   line-height: 1.6;
   font-family: monospace;
   font-size: 25px;
+  color: #444;
 }
