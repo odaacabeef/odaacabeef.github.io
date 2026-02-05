@@ -10,8 +10,8 @@
 h1 {
   font-family: "SubwayTicker";
   font-weight: normal;
-  font-size: 120px;
-  line-height: 10px;
+  font-size: 180px;
+  line-height: 13px;
   padding: 0 25px;
 }
 
@@ -27,7 +27,7 @@ a:hover {
 .container {
   display: flex;
   align-items: center;
-  gap: 50px;
+  gap: 80px;
 }
 
 .odb {
@@ -36,16 +36,14 @@ a:hover {
 
 .components {
   font-family: monospace;
-  font-size: 11px;
+  font-size: 16px;
   line-height: 1.4;
   white-space: pre;
   margin: 0;
   padding: 25px;
-  border: 1px dashed #000;
 }
 
 .description {
-  max-width: 800px;
   margin: 20px;
   padding: 20px;
   line-height: 1.6;
