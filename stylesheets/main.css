@@ -36,10 +36,19 @@ a:hover {
 
 .components {
   font-family: monospace;
-  font-size: 10px;
+  font-size: 11px;
   line-height: 1.4;
   white-space: pre;
   margin: 0;
   padding: 25px;
   border: 1px dashed #000;
+}
+
+.description {
+  max-width: 800px;
+  margin: 20px;
+  padding: 20px;
+  line-height: 1.6;
+  font-family: monospace;
+  font-size: 25px;
 }
