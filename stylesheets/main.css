@@ -34,6 +34,14 @@ a:hover {
   flex-shrink: 0;
 }
 
+.odb a {
+  color: black;
+}
+
+.odb a:hover {
+  color: #999;
+}
+
 .components {
   font-family: monospace;
   font-size: 16px;
