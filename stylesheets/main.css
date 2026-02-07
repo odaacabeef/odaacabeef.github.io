@@ -55,15 +55,15 @@ a:hover {
   color: #D8BFD8;
 }
 
-.description-text {
+.component-desc {
   color: #999;
 }
 
-.description {
+.summary {
   margin: 20px;
   padding: 20px;
   line-height: 1.6;
   font-family: monospace;
   font-size: 25px;
-  color: #444;
+  color: #999;
 }
